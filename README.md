@@ -16,7 +16,7 @@ Nuestra solucion esta separada en dos repositorios locales:
 
 ## Arquitectura
 
-![Arquitectura ejecutiva](architecture/project_architecture_executive.svg)
+![Arquitectura ejecutiva](https://github.com/Hybrid-RAG/README/blob/main/project_architecture_executive.svg)
 
 ## Que cubre el proyecto
 
