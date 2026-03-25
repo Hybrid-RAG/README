@@ -67,15 +67,10 @@ Desde `rag_dashboard/`:
 python app.py
 ```
 
-## Demo
+## Demo: Hybrid RAG Pipeline
 
-Este README deja preparada la seccion de demo.
 
-Opciones recomendadas:
-
-1. insertar un GIF corto del flujo `Ask`
-2. agregar una captura del dashboard con enlace a un video
-3. enlazar un video externo si el archivo es muy pesado
+![Demo](Hybrid-RAG-Dashboard-Demo.gif)
 
 Contenido del demo:
 
